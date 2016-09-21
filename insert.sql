@@ -1,1 +1,0 @@
-INSERT INTO `c9`.`listas` (`ID`, `nombre`) VALUES (NULL, 'comida'), (NULL, 'etxeko-lanak');
